@@ -2,7 +2,7 @@
 Hello! My name is Gavran Dodson, and I'm a computer science graduate interested in cybersecurity. On my page, I have a few projects from my studies at UNC Charlotte. In the past, I contributed a small amount to a modification for Risk of Rain 2, a game made in Unity.
 
 ### About Me ⚡
-- I am a UNC Charlotte graduate, with a BS in Computer Science that has a concentration in Cybersecurity.
+- I am a UNC Charlotte graduate, with a BS in Computer Science that has a concentration in Cybersecurity, and a Minor in Mathematics.
 - I have completed many small software development projects while taking courses at UNC Charlotte, hosted here on my GitHub.
 - My hobbies include playing (and rarely modding) video games, cooking, and going on hikes.
 
